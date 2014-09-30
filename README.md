@@ -6,4 +6,4 @@ The tool itself, however, may be used for many purposes such as: stacking spectr
 spectra files based on certain parameters, analyzing data to seek galactic emission, error analysis and more. Please keep visiting
 as we are continously working to add more features and improve the tool.
 
-- Pranav Sekhar and Aaron Huang
+Pranav Sekhar and Aaron Huang
